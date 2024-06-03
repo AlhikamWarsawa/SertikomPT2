@@ -9,6 +9,11 @@ if (isset($_POST['logoutt'])) {
     header('Location: beranda.php');
     exit;
 }
+
+if ($_SESSION['username'] == null){
+    header ('location: beranda.php');
+    exit();
+}
 ?>
 <html>
 <head>

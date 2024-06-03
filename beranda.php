@@ -19,13 +19,12 @@ include "header.php";
   <body >
     <h1 class="text-center mt-5">Welcome To Expro Hotel</h1>
     <p class="text-center mt-3">
-        Selamat datang di Expro Hotel, pusat kenyamanan dan kehangatan di jantung Kota Bogor. <br>
-        Kami menawarkan pengalaman menginap tak terlupakan dengan desain elegan, <br>
-        fasilitas modern, dan layanan berkualitas tinggi. Nikmati kamar-kamar mewah dengan <br>
-        pemandangan menakjubkan, hidangan lezat di restoran bergengsi, serta relaksasi di <br>
-        kolam renang, pusat kebugaran, dan spa kami. Dengan staf ramah dan profesional, <br>
-        kami siap memastikan kunjungan Anda menjadi momen istimewa. Jadikan Expro Hotel <br>
-        pilihan utama Anda untuk pengalaman menginap yang luar biasa.
+        Selamat datang di Expro Hotel! Ini tempatnya keren banget, loh, di tengah-tengah Kota Bogor. <br>
+        Di sini, kita fokus banget bikin kamu betah dan nyaman. Kamar-kamarnya mewah abis, <br>
+        ada pemandangan keren pula. Mau makan? Restorannya juara deh, makanannya enak <br>
+        banget! Dan jangan lupa, kita juga punya kolam renang, gym, dan spa buat santai-santai.
+        <br>Tim kita juga ramah-ramah dan pro, jadi pasti siap banget buat bikin pengalaman kamu di
+        <br>sini jadi yang paling berkesan. Yuk, cobain Expro Hotel buat liburan yang nggak terlupakan!
     </p>
 
     <h2 class="text-center mt-5">Galeri Expro Hotel</h2>

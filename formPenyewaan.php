@@ -11,7 +11,6 @@ if (isset($_POST['submit'])) {
     $checkout = $_POST['checkout'];
     $jumlah_kamar = $_POST['jumlah_kamar'];
 
-    // Ambil harga kamar dari tabel kamar berdasarkan id kamar yang dipilih
     $sql_get_price = "SELECT harga FROM kamar WHERE id = $id_kamar";
     $result_price = $db->query($sql_get_price);
     $row_price = $result_price->fetch_assoc();
